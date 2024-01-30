@@ -2,10 +2,10 @@
 
 🙋‍♀️ This GitHub organization is the practice area for the Lab. 
 
-It has *public* information in
-[**Syllabus and Schedule Website**]([https://cu-f23-mdssb-01-concepts-tools.github.io/Website/](https://cu-s24-msdssb-dsci-01-datasciencelab.github.io/Website/)
+It has *public* information in  
+[**Syllabus and Schedule Website**](https://cu-f23-mdssb-01-concepts-tools.github.io/Website/](https://cu-s24-msdssb-dsci-01-datasciencelab.github.io/Website/)
 
-and *private* information on course organization and scheduling including information about students and their projects
+and *private* information on course organization and scheduling including information about students and their projects  
 [**Course-Organization**](https://github.com/CU-S24-MSDSSB-DSCI-01-DataScienceLab/Course-Organization)
 
 Further on, the organization will provide **personalized repositories** for registered students.   
